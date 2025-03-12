@@ -1,0 +1,1 @@
+we will be focusing on ui elements on our first week. container, column, row , images, listview, gridview and other ui related widget . make sure to practice all of them separately and create a dummy ui for any project with the help of those . 
